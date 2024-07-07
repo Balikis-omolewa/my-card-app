@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-<h1>Components</h1>h1>
+<h1>Components</h1>
 <br/>
 <h2>Navbar</h2>
 The Navbar component provides a navigation bar at the top of the application.
@@ -24,7 +24,8 @@ This project uses the following dependencies:
 <br/>
 <h2>React</h2>
 React-Bootstrap
+<br/>
 Bootstrap
-
+<br/>
 - Visit page: https://my-card-app.onrender.com/
   
