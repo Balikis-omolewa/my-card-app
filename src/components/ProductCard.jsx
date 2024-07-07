@@ -7,7 +7,7 @@ function ProductCard({id, title, imgUrl, description, price}) {
       <Card.Img src={imgUrl} className='card-img-top' alt={title} />
       <Card.Body>
         <Card.Text>{description}</Card.Text>
-        <Card.Text>{price}</Card.Text>
+        <Card.Text>${price}</Card.Text>
         <Button className='btn btn-warning'>Add To Cart</Button>
       </Card.Body>
     </Card>
