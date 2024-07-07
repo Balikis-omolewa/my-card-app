@@ -8,20 +8,21 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#Components
-#Navbar
+<h1>Components</h1>h1>
+<br/>
+<h2>Navbar</h2>
 The Navbar component provides a navigation bar at the top of the application.
-
-#Heading
+<br/>
+<h2>Heading</h2>
 The Heading component displays a main heading for the application.
-
-#Product Cards
+<br/>
+<h2>Product Cards</h2>
 The Product Cards component displays a list of product cards. Each card includes an image, title, description, and a button.
-
-$Dependencies
+<br/>
+<h2>Dependencies</h2>
 This project uses the following dependencies:
-
-#React
+<br/>
+<h2>React</h2>
 React-Bootstrap
 Bootstrap
 
